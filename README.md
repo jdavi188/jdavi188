@@ -12,7 +12,7 @@
 
 <footer>
                 <br>
-        <br /> &copy; 2019 Jocelyn M. Davis
+        <br /> Copyright &copy; 2019 Jocelyn M. Davis
 </footer>
 </body>
 </html>
