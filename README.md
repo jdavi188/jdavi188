@@ -12,7 +12,7 @@
 
 <footer>
                 <br>
-        <br /> Copywrite &copy; 2019 designed by Jocelyn M. Davis
+        <br /> &copy; 2019 Jocelyn M. Davis
 </footer>
 </body>
 </html>
