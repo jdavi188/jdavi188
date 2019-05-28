@@ -4,7 +4,6 @@
 <html lang="en-US">
 <head>
 <meta charset="utf-8"/>
-<title>Title</title>
 </head>
 
 <h1 style="color: teal;">Hi, I'm Jocelyn,</h1>
