@@ -1,0 +1,41 @@
+.centered
+{
+	text-align: center;
+}
+
+body, main
+{
+	background-color: #FCFCFC;
+	color: #9BA77A;
+	margin: 10px 15% 10px 15%;
+	font-family: garamond;
+}
+
+ul
+{
+	list-style-type: square;
+}
+
+p
+{
+	text-align: left;
+}
+
+a
+{
+	color: #577600;
+}
+
+h1, h2, h3, h4, h5
+{
+	color: #577600;
+	font-family: garamond;
+	text-align: center;
+}
+
+header, footer
+{
+	text-align: center;
+	color: #CBCBCB;
+	margin: 25px 0 15px 0;
+}

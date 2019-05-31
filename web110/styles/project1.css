@@ -1,0 +1,48 @@
+.centered
+{
+	text-align: center;
+}
+
+body, main
+{
+	background-color: #292c2c;
+	color: #717577;
+	margin: 10px 15% 10px 15%;
+	font-family: verdana;
+}
+
+ul
+{
+	list-style-type: square;
+}
+
+p
+{
+	text-align: left;
+}
+
+a
+{
+	color: #0DCE68;
+}
+
+h1, h2
+{
+	color: #FEFFFF;
+	font-family: verdana;
+	text-align: center;
+}
+
+h3, h4, h5
+{
+	color: #0DCE68;
+	font-family: verdana;
+	text-align: center;
+}
+
+header, footer
+{
+	text-align: center;
+	color: #474B4F;
+	margin: 25px 0 15px 0;
+}
